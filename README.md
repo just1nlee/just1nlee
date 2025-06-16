@@ -1,4 +1,4 @@
-<h1>Hi, I'm Justin! <br/><a href="https://www.linkedin.com/in/just1nlee/">Student</a>, <a href="https://github.com/just1nlee">Programmer</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Justin! <br/><a href="https://www.linkedin.com/in/just1nlee/">Student</a>, <a href="https://github.com/just1nlee">Programmer</a>, <a href="https://www.youtube.com/c/justinleeyt">Creator</a></h1>
 
 <h2>💻 Checkout my Projects:</h2>
 
