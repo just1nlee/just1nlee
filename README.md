@@ -1,8 +1,14 @@
 <h1>Hi, I'm Justin! <br/><a href="https://www.linkedin.com/in/just1nlee/">Student</a> and <a href="https://github.com/just1nlee">Programmer</a></h1>
 <!-- , <a href="https://www.youtube.com/@justinleeyt">Creator</a></h1> -->
 
-<h2>Checkout my Projects:</h2>
-- 🌌 [Universe Terminal (uTerm)](https://github.com/just1nlee/uTerm) – A browser-based *nix shell that lets users explore a procedurally generated universe powered by Gemini AI.
+<h2>Featured Project:</h2>
+
+### 🌌 [Universe Terminal](https://github.com/just1nlee/uTerm)
+
+> A browser-based *nix shell that procedurally generates a universe powered by Gemini AI.
+
+![GitHub stars](https://img.shields.io/github/stars/just1nlee/uTerm?style=social)  
+![GitHub last commit](https://img.shields.io/github/last-commit/just1nlee/uTerm)
 <!--
 **just1nlee/just1nlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
