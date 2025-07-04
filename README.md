@@ -2,7 +2,7 @@
 <!-- , <a href="https://www.youtube.com/@justinleeyt">Creator</a></h1> -->
 
 <h2>Checkout my Projects:</h2>
-
+- 🌌 [Universe Terminal (uTerm)](https://github.com/just1nlee/uTerm) – A browser-based *nix shell that lets users explore a procedurally generated universe powered by Gemini AI.
 <!--
 **just1nlee/just1nlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
