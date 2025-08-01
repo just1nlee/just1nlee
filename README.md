@@ -7,9 +7,9 @@ A browser-based *nix shell that procedurally generates a universe powered by Gem
 [View project →](https://github.com/just1nlee/uTerm)
 
 ---
-
+<!--
 Currently working on:  
-- [cobalc](https://github.com/just1nlee/cobalc) — a modular dashboard for focused digital work  
+- [Tilescale](https://github.com/just1nlee/cobalc) — a modular dashboard for focused digital work  
 <!--
 **just1nlee/just1nlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
