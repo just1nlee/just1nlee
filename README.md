@@ -1,14 +1,15 @@
-<h1>Hi, I'm Justin! <br/><a href="https://www.linkedin.com/in/just1nlee/">Student</a> and <a href="https://github.com/just1nlee">Programmer</a></h1>
+<h1>Hi, I'm Justin - <br/><a href="https://www.linkedin.com/in/just1nlee/"> CS Student</a> and Programmer at Oregon State University.</a></h1>
 <!-- , <a href="https://www.youtube.com/@justinleeyt">Creator</a></h1> -->
 
-<h2>Featured Project:</h2>
+### 🌌 Universe Terminal  
+A browser-based *nix shell that procedurally generates a universe powered by Gemini AI.
 
-### 🌌 [Universe Terminal](https://github.com/just1nlee/uTerm)
+[View project →](https://github.com/just1nlee/uTerm)
 
-> A browser-based *nix shell that procedurally generates a universe powered by Gemini AI.
+---
 
-![GitHub stars](https://img.shields.io/github/stars/just1nlee/uTerm?style=social)  
-![GitHub last commit](https://img.shields.io/github/last-commit/just1nlee/uTerm)
+Currently working on:  
+- [cobalc](https://github.com/just1nlee/cobalc) — a modular dashboard for focused digital work  
 <!--
 **just1nlee/just1nlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
