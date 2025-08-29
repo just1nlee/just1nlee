@@ -1,7 +1,7 @@
 <h1>Hi, I'm Justin - <br/><a href="https://www.linkedin.com/in/just1nlee/"> CS Student</a> and Programmer at Oregon State University.</a></h1>
 <!-- , <a href="https://www.youtube.com/@justinleeyt">Creator</a></h1> -->
 
-### 🌌 Universe Terminal  
+### Universe Terminal  
 A browser-based *nix shell that procedurally generates a universe powered by Gemini AI.
 
 [View project →](https://github.com/just1nlee/uTerm)
