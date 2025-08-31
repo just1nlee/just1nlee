@@ -1,10 +1,10 @@
 <h1>Hi, I'm Justin - <br/><a href="https://www.linkedin.com/in/just1nlee/"> CS Student</a> and Programmer at Oregon State University.</a></h1>
 <!-- , <a href="https://www.youtube.com/@justinleeyt">Creator</a></h1> -->
 
-### Universe Terminal  
-A browser-based *nix shell that procedurally generates a universe powered by Gemini AI.
-
-[View project →](https://github.com/just1nlee/uTerm)
+### Projects
+- [**Universe Terminal**](https://github.com/just1nlee/uTerm) - A browser-based *nix shell that procedurally generates a universe powered by Gemini AI.
+- [**Packet Path**](https://github.com/just1nlee/pktpath) - A 3D traceroute program visualizer.
+- **Tilescale** - (Coming soon)
 
 ---
 <!--
