@@ -3,8 +3,8 @@
 
 ### Projects
 - [**Universe Terminal**](https://github.com/just1nlee/uTerm) - A browser-based *nix shell that procedurally generates a universe powered by Gemini AI.
+- [**macOS System Monitor**](https://github.com/just1nlee/system-monitor-macos) - A lightweight macOS application to monitor CPU, memory, and frame rate metrics in real time.
 - [**Packet Path**](https://github.com/just1nlee/pktpath) - A 3D traceroute program visualizer.
-- **Tilescale** - (Coming soon)
 
 ---
 <!--
