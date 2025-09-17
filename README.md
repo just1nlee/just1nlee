@@ -1,14 +1,14 @@
-<h1>Hi, I'm Justin - <br/><a href="https://www.linkedin.com/in/just1nlee/"> CS Student</a> and Programmer at Oregon State University.</a></h1>
+<h1>Hi, I'm Justin <br/><a href="https://www.linkedin.com/in/just1nlee/"> CS Student</a> and Programmer at Oregon State University.</a></h1>
 <!-- , <a href="https://www.youtube.com/@justinleeyt">Creator</a></h1> -->
 
 ### Projects
 - [**Universe Terminal**](https://github.com/just1nlee/uTerm) - A browser-based *nix shell that procedurally generates a universe powered by Gemini AI.
-- [**macOS System Monitor**](https://github.com/just1nlee/system-monitor-macos) - A lightweight macOS application to monitor CPU, memory, and frame rate metrics in real time.
 - [**Packet Path**](https://github.com/just1nlee/pktpath) - A 3D traceroute program visualizer.
 
 ---
 <!--
 Currently working on:  
+- - [**macOS System Monitor**](https://github.com/just1nlee/system-monitor-macos) - A lightweight macOS application to monitor CPU, memory, and frame rate metrics in real time.
 - [Tilescale](https://github.com/just1nlee/cobalc) — a modular dashboard for focused digital work  
 <!--
 **just1nlee/just1nlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
