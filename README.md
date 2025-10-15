@@ -1,11 +1,8 @@
-<h1>Hi, I'm Justin <br/><a href="https://www.linkedin.com/in/just1nlee/"> CS Student</a> and Programmer at Oregon State University.</a></h1>
+<h1>Hi, I'm <a href="https://www.linkedin.com/in/just1nlee/">Justin</a> 👋🏻</h1>
 <!-- , <a href="https://www.youtube.com/@justinleeyt">Creator</a></h1> -->
 
-### Projects
-- [**Universe Terminal**](https://github.com/just1nlee/uTerm) - A browser-based *nix shell that procedurally generates a universe powered by Gemini AI.
-- [**Packet Path**](https://github.com/just1nlee/pktpath) - A 3D traceroute program visualizer.
+Nice to meet you! I'm a third year student at Oregon State University studying Computer Science, interested in backend development and cloud engineering. I'm currently working as a software developer for the Linux Foundation on the <a href="https://lfx.linuxfoundation.org/">LFX platform</a>, and I've also earned my AWS Certified Solutions Architect - Associate and Cloud Practitioner certifications. I've built some cool personal projects like <a href="https://github.com/just1nlee/universeterminal">universeterminal</a> and <a href="https://github.com/just1nlee/pktpath">pktpath</a>, feel free to check them out if you have time. Thanks for stopping by!
 
----
 <!--
 Currently working on:  
 - - [**macOS System Monitor**](https://github.com/just1nlee/system-monitor-macos) - A lightweight macOS application to monitor CPU, memory, and frame rate metrics in real time.
